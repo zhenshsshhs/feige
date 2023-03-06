@@ -1,0 +1,5 @@
+train: data/VOCData/VOCTrainVal/TrainVal_train.txt
+val: data/VOCData/VOCTrainVal/TrainVal_val.txt
+test: data/VOCData/VOCTrainVal/TrainVal_test.txt
+nc: 1
+names: ['bottle']
